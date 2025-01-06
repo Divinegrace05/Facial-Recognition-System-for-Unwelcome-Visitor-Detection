@@ -100,8 +100,7 @@ The system was tested using various test images, and performance was evaluated i
 ├── /data
 │   └── lfw_dataset/        # Labeled Faces in the Wild dataset
 ├── /saved_model/           # Pre-trained FaceNet model
-├── /scripts/
-│   └── facial_recognition.py  # Main code for facial recognition system
+├── facial_recognition.py  # Main code for facial recognition system
 └── README.md               # This README file
 ```
 
