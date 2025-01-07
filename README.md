@@ -110,7 +110,7 @@ To set up and run the facial recognition system, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/facial-recognition-access-control.git
+   git clone https://github.com/Divinegrace05/Facial-Recognition-System-for-Access-Control.git
    cd facial-recognition-access-control
    ```
 
@@ -166,9 +166,9 @@ verify(test_image, "Kofi Annan", database, FRmodel)  # Verify a known identity
 
 ## References
 
-- **Labeled Faces in the Wild**: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_lfw_people.html
+- **Labeled Faces in the Wild**:
+- - https://vis-www.cs.umass.edu/lfw/
+- - https://www.kaggle.com/datasets/jessicali9530/lfw-dataset
+- - https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_lfw_people.html
 - **FaceNet**: https://arxiv.org/abs/1503.03832
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
