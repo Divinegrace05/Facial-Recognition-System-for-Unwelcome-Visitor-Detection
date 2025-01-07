@@ -1,4 +1,4 @@
-# Facial Recognition System for Access Control - README
+# Facial Recognition System for Access Control
 
 ## Project Overview
 
