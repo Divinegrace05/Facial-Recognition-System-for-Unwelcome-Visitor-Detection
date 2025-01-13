@@ -1,8 +1,16 @@
 # Facial Recognition System for Unwelcome Visitor Detection
 
-## Project Overview
+## Introduction
+In today's world, security has become increasingly complex, especially in spaces like corporate offices, educational institutions, and government buildings. Traditional security methods often rely on human observers or basic key card systems, which have significant limitations. Our project addresses these challenges by implementing an intelligent facial recognition system that can automatically identify and manage access control, with a specific focus on detecting unwelcome visitors.
+The Problem Statement (For All Audiences)
+Imagine a security guard trying to remember hundreds of faces, making split-second decisions about who should and shouldn't enter a building. This task is:
 
-This project implements an intelligent facial recognition system for automated access control, combining both traditional machine learning (ML) and deep learning (DL) approaches to enhance security. The system identifies and verifies individuals in real-time, allowing authorized personnel to gain access while preventing unauthorized individuals from entering. It also provides clear feedback to security personnel, ensuring seamless access management.
+Mentally exhausting
+Prone to human error
+Limited by human memory capacity
+Inefficient during peak hours
+Inconsistent across different security shifts
+This solution automates this process using machine learning, providing consistent, rapid, and accurate identification 24/7.
 
 ### Business Problem
 
