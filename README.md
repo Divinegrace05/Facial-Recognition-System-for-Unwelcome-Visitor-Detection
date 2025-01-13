@@ -2,14 +2,15 @@
 
 ## Introduction
 In today's world, security has become increasingly complex, especially in spaces like corporate offices, educational institutions, and government buildings. Traditional security methods often rely on human observers or basic key card systems, which have significant limitations. Our project addresses these challenges by implementing an intelligent facial recognition system that can automatically identify and manage access control, with a specific focus on detecting unwelcome visitors.
-The Problem Statement (For All Audiences)
+
+### Problem Statement
 Imagine a security guard trying to remember hundreds of faces, making split-second decisions about who should and shouldn't enter a building. This task is:
 
-Mentally exhausting
-Prone to human error
-Limited by human memory capacity
-Inefficient during peak hours
-Inconsistent across different security shifts
+- Mentally exhausting
+- Prone to human error
+- Limited by human memory capacity
+- Inefficient during peak hours
+- Inconsistent across different security shifts
 
 This solution automates this process using machine learning, providing consistent, rapid, and accurate identification 24/7.
 
