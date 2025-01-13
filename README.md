@@ -1,4 +1,4 @@
-# Facial Recognition System for Access Control
+# Facial Recognition System for Unwelcome Visitor Detection
 
 ## Project Overview
 
