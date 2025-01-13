@@ -10,6 +10,7 @@ Prone to human error
 Limited by human memory capacity
 Inefficient during peak hours
 Inconsistent across different security shifts
+
 This solution automates this process using machine learning, providing consistent, rapid, and accurate identification 24/7.
 
 ### Business Problem
