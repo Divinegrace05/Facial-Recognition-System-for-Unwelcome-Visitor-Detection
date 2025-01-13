@@ -1,7 +1,7 @@
 # Facial Recognition System for Unwelcome Visitor Detection
 
 ## Introduction
-In today's world, security has become increasingly complex, especially in spaces like corporate offices, educational institutions, and government buildings. Traditional security methods often rely on human observers or basic key card systems, which have significant limitations. Our project addresses these challenges by implementing an intelligent facial recognition system that can automatically identify and manage access control, with a specific focus on detecting unwelcome visitors.
+In today's world, security has become increasingly complex, especially in spaces like corporate offices, educational institutions, and government buildings. Traditional security methods often rely on human observers or basic key card systems, which have significant limitations. This project addresses these challenges by implementing an intelligent facial recognition system that can automatically identify and manage access control, with a specific focus on detecting unwelcome visitors.
 
 ### Problem Statement
 Imagine a security guard trying to remember hundreds of faces, making split-second decisions about who should and shouldn't enter a building. This task is:
