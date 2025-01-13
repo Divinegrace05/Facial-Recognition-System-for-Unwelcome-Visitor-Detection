@@ -120,7 +120,7 @@ To set up and run the facial recognition system, follow the steps below:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Divinegrace05/Facial-Recognition-System-for-Access-Control.git
+   git clone https://github.com/Divinegrace05/Facial-Recognition-System-for-Unwelcome-Visitor-Detection.git
    cd facial-recognition-access-control
    ```
 
