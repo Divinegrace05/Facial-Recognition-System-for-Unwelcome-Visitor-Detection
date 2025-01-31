@@ -1,4 +1,5 @@
 # Facial Recognition System for Unwelcome Visitor Detection
+![FacialRecognition](https://github.com/user-attachments/assets/ef2865ed-3dc7-4c9b-9556-fbf0088a8682)
 
 ## Introduction
 In today's world, security has become increasingly complex, especially in spaces like corporate offices, educational institutions, and government buildings. Traditional security methods often rely on human observers or basic key card systems, which have significant limitations. This project addresses these challenges by implementing an intelligent facial recognition system that can automatically identify and manage access control, with a specific focus on detecting unwelcome visitors.
